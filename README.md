@@ -1,5 +1,29 @@
 # surrealworld hack: TuringDAO && RWA
 
+## What we made
+
+A Decentralized IP Protection System leveraging:
+
+- 🧠 TuringDAO - Collective intelligence governance for trademark authenticity verification
+- 🤖 Turing AI - Automated dispute detection & data aggregation from multiple chains
+- 🔗 Smart Contracts - Multi-chain enforcement of voting outcomes (authentic marks registered on-chain, squatted marks frozen)
+- 💰 Token Incentives - Reward system for consensus-aligned voting participants
+
+*Core Innovation*: Transforms IP validation from "first-to-file" bureaucracy to community-driven consensus, addressing:
+
+1. Trademark squatting through decentralized authentication
+2. Cross-jurisdictional disputes via blockchain evidence
+3. Legacy system inefficiencies with automated processes
+
+*Tech Stack* :
+
+- Chainlink oracles for real-world data integration
+- Multi-chain smart contract framework
+- Token-curated registry for IP assets
+- DAO governance with TUIT tokens
+
+*Vision* : Partner with RWA ecosystems like Story Protocol to expand collective intelligence validation to all IP assets and real-world properties.
+
 ## Background and Challenges
 
 Intellectual Property (IP), particularly trademarks, faces escalating risks of squatting on a global scale.
@@ -66,3 +90,9 @@ Learning from cases like Qiaodan Sports and MUJI, which highlight the flaws of c
 
 In the future, Turing M will partner with global RWA ecosystems, such as the Story Protocol, to extend collective intelligence to more IP assets and real-world properties, driving a Web3 intellectual property revolution where every creation owns its value through decentralized consensus.
 
+## The goals after the hackathon
+
+- 🚀 Expand collective intelligence validation to all IP assets & RWAs
+- 🤝 Forge RWA partnerships (e.g., Story Protocol)
+- 🔄 Enhance DAO governance frameworks
+- 💎 Develop token utility for IP protection ecosystems
