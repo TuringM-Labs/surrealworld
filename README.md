@@ -31,10 +31,7 @@ The final decision is made by Turing DAO members through transparent voting, ens
 
 In contrast, traditional IP validation depends on who registers first, local jurisdictions, court rulings, or regulatory bodies—often leading to wasted time, resources, and unjust rulings where original creators fail to disprove dubious or absurd claims.
 
-For example, consider the long-standing dispute between Nike and China’s Qiaodan Sports https://www.
-youtube.
-com/watch?v=bju_EfkZlcU
-or the case of Japan’s Ryohin Keikaku (Muji), which lost the rights to its own brand name in China to Beijing Cottonfield—a company that preemptively registered the "Muji" trademark in 2001 and won the legal battle after two decades of litigation.
+For example, consider the long-standing dispute between Nike and China’s Qiaodan Sports https://www.youtube.com/watch?v=bju_EfkZlcU or the case of Japan’s Ryohin Keikaku (Muji), which lost the rights to its own brand name in China to Beijing Cottonfield—a company that preemptively registered the "Muji" trademark in 2001 and won the legal battle after two decades of litigation.
 
 Such cases highlight that collective intelligence can often surpass centralized courts or review boards in discerning authenticity and rightful ownership.
 
