@@ -1,4 +1,4 @@
-# surrealworld
+# surrealworld hack: TuringDAO && RWA
 
 ## Background and Challenges
 
